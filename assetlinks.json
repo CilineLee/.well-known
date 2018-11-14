@@ -31,19 +31,7 @@
       "namespace": "android_app",
       "package_name": "com.rockets.dudu",
       "sha256_cert_fingerprints": [
-        "E3:25:97:91:18:74:27:87:3A:CA:75:CE:CF:A8:89:F9:77:46:66:28:F9:CC:91:8A:82:18:7A:AE:73:A2:E0:9E"
-      ]
-    }
-  }
-  ,
-  {
-    "relation": [
-      "delegate_permission/common.handle_all_urls"
-    ],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.rockets.dudu",
-      "sha256_cert_fingerprints": [
+        "E3:25:97:91:18:74:27:87:3A:CA:75:CE:CF:A8:89:F9:77:46:66:28:F9:CC:91:8A:82:18:7A:AE:73:A2:E0:9E",
         "5E:B4:55:4A:A9:D2:E8:DA:25:D4:75:C3:5C:CF:17:42:CE:F2:77:17:DA:9A:22:95:F6:95:D7:AE:70:4D:D3:09"
       ]
     }
